@@ -33,6 +33,7 @@
 6. Нажмите «Далее».
 
 7. Введите пароль для внешнего приложения. [Что это?](https://help.mail.ru/mail/settings/2fa/apps)
+
     <img src="./images/imap-mailru-003.jpg" alt="Выбор протокола" style="border: 2px solid gray;">
 
 8. Нажмите «Подключить» → «Ок»
