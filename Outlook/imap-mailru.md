@@ -6,11 +6,11 @@
 2.	Если вы уже авторизованы в приложении с какой-либо почтой, то перейдите «Файл» → «Сведения» → «Добавить учётную запись». Если не авторизованы, пропустите этот шаг.
 3.	Введите адрес ящика на Mail.ru в поле Электронный адрес. Выберите «Дополнительные параметры», отметьте галочку «Настроить учетную запись вручную» и нажмите «Подключить».
 
-    <img src="./images/imap-mailru-001.jpg" alt="Добавление электронной почты в Outlook" style="border: 2px solid  gray;text-align:left;">
+    <img src="./images/imap-mailru-001.jpg" alt="Добавление электронной почты в Outlook" style="border: 2px solid gray;">
 
 4. Выберите «IMAP».
 
-    <img src="./images/imap-mailru-002.jpg" alt="Выбор протокола" style="border: 2px solid  gray;text-align:left;">
+    <img src="./images/imap-mailru-002.jpg" alt="Выбор протокола" style="border: 2px solid gray;">
 
 5. Проверьте, правильно ли заполнены поля:
 
@@ -28,11 +28,11 @@
     | Порт              | 465               |
     | Метод шифрования  | SSL/TLS           |
 
-    <img src="./images/imap-mailru-004.jpg" alt="Выбор протокола" style="border: 2px solid  gray;text-align:left;">
+    <img src="./images/imap-mailru-004.jpg" alt="Выбор протокола" style="border: 2px solid gray;">
 
 6. Нажмите «Далее».
 
 7. Введите пароль для внешнего приложения. [Что это?](https://help.mail.ru/mail/settings/2fa/apps)
-    <img src="./images/imap-mailru-003.jpg" alt="Выбор протокола" style="border: 2px solid  gray;text-align:left;">
+    <img src="./images/imap-mailru-003.jpg" alt="Выбор протокола" style="border: 2px solid gray;">
 
 8. Нажмите «Подключить» → «Ок»
